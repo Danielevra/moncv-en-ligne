@@ -1,0 +1,35 @@
+.contenu{
+    /* background-color: azure; */
+    width: 500;
+    margin: 0px auto;
+    
+}
+.details{
+    /* background-color: lightpink; */
+}
+.list-details{
+    float: right;
+    /* background-color: aqua; */
+    position: relative;
+    right: 50px;
+    top: 30px;
+    list-style-type: none;
+
+}
+.details img{
+    border-radius: 200px;
+}
+.cv-section{
+    padding-top: 0px;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+p{
+    margin: 2px;
+}
+hr{
+    border-color: aqua;
+}
